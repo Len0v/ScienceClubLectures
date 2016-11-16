@@ -2,23 +2,57 @@ Plan na spotkanie kola.
 
 Slide 3 - So you want to be a game developer.
     
+    
 Slide 4 - Life Cicle of Game Development
+    Wszystko zaczyna się od idei
+    Game Design Documents
+    Technical Design Document
+    Development
+    Deployment
+    Publish
 
 Slide 5 - Idea, that's where it all starts.
+    Najlepsze pomysły przychodzą w najmniej spodziewanych momentach,
+    gdy sie spieszymy na wykład, jesteśmy spóźnieni do pracy czy po prostu
+    jadąc autem nie mogąc tego zapisać.
 
 Slide 6 - Prototype it, like for real... prototype it
+    Prawda jest taka, że nawet najlepszy pomysł można zepsuć próbując 
+    napisać całą grę od razu zamiast skupić się na prostym prototypie.
+    Bo prawdę mówiąc, jeśli prototyp sprawi, że będziecie się dobrze bawić,
+    lub chętnie odpalicie go po raz drugi lub trzeci, to wiesz, że jesteś na 
+    dobrym tropie. 
 
-Slide 7 - Plan your way trought the project. 
+    Przykład z własnego doświadczenia.
 
-Slide 8 - Decide
+    Załóżmy, że prototyp sprawia nam przyjemność, podoba się najbliższym znajomym
+    i dziewczynie. 
+    Najwyższy czas skupić się na właściwym planowaniu naszego projektu.
 
-Slide 9 - Keep it simple stupid
+Slide 7 - Keep it simple stupid
+    Przy projektowaniu prototypu trzeba przede wszystkim skupić się prostocie.
+
+Slide 8 - Plan your way trought the project. 
+    Rozróżniamy dwa podejścia do planu projektu:
+        Game Design Document
+            W nim planujemy to jak wyobrażamy sobie grę, poziomy, postacie.
+        Technical Design Document
+            Tu skupiamy się technicznym podejściu, zależności klas,
+            poszczególne możliwości:
+            Np jak bedzie się poruszać postać, tzn. Movement- jump, walk crawl..
+
+Slide 9 - Decide
+    W trakcie planownia będziemy musieli podiąc wiele ważnych decyzji, które 
+    zarzutują na resztę planowania gry.. 
 
 Slide 10 - Technical Design Document
 
 Slide 11 - Schedule your work
+    Krótkie zadania, realne do zrealizowania
+    DEADLINY dla utrzymania motywacji
 
 Slide 12 - Be prepared for troubles, do small steps to keep it motivating
+
 
 Slide 13 - Resistance...
 
