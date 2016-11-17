@@ -80,8 +80,16 @@ Slide 18 - Be prepared to invest your own money
 	Jako niezależni twórcy, większość rzeczy musimy kupić sami, sprzęt, stanowisko, opłacić miejsce pracy. Płacić rachunki...
 
 Slide 19 - Protect your work...
+    Może wydać się to dla was błachę, pomyślicie "Co mi mogą ukraść? 12 zł na koncie, nic nie znaczące maile albo dodadzą pare wpisów na fb"
+    Ale zdarzały się przypadki, że projekty nad którymi ludzie pracowali były udostepniane publicznie i ktoś mógł zacząć pracować nad waszym projekte,
+    ukraść mechanizmy, grafikę, pomysł.
 
 Slide 20 - Questions widouth answers
+    Wiele osób zaczynających przygodę z pisaniem gier, zastanawia się jaki język wybrać, jaki edytor, framework, ale 
+    to tak na prawdę nie ma znaczenia. 
+    Najlepiej na początek wybrać coś wspólnego z językiem programowania jaki się zna, znasz C++ wybierz Unreal,
+    znasz C# - Unity, 
+    Edytor czy IDE, też nie ma znaczenia, cokolwiek działą dla Ciebie, jest dobre.
 
 Slide 21 - Usefull programs
 
