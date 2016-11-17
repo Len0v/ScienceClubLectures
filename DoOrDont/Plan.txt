@@ -48,23 +48,36 @@ Slide 9 - Decide
 Slide 10 - Technical Design Document
 
 Slide 11 - Schedule your work
-    Krótkie zadania, realne do zrealizowania
+    Krótkie zadania, realne do zrealizowania. 
+    Im prostsze tym lepiej, najlepiej zadania na 2-3 godziny. 
     DEADLINY dla utrzymania motywacji
 
 Slide 12 - Be prepared for troubles, do small steps to keep it motivating
+	Dlaczego planowanie małych kroczków jest takie istotne,
+	pozwala to czuć ciągłą radośc z odchaczania kolejnych punktów, widzimy realny progress co utrzymuje naszą motywację i sprawia radość, przez co chętniej siądziemy do projektu kolejnego dnia.
 
+	Przerwy, robić sobie przerwy, np. co dwa-trzy miesiące zrobić sobie przerwę na tydzień, odpocząć i wrócić do projektu ze świerzszą głową.
 
 Slide 13 - Resistance...
+	Wytwałość przechytrzy amatora stosując jedną z najstarszych zagrywek..
 
 Slide 14 - Collect feedback
+	Jedną z kluczowych rzeczy w trakcie projektu jest zbieranie feedbacku, nie zamykajmy się z projektem za stalowymi drzwiami, w końcu chodzi o to, żeby ktoś w naszą grę grał, żeby sprawiała frajdę. Skąd będziemy wiedzieć czy tak jest, jeśli będziemy tylko my. 
+	Każdą nową mechanikę, poziom, postać, dosłownie wszystko konsultujmy z kimś kogo zdanie uszanujemy. ...
 
 Slide 15 - We've been learning that players in general want a game that rewards...
 
-Slide 16 - You're just a fish..
+Slide 16 - Marketing
+	istnieją niezliczone ścieżki zdobycia klientów, ale aby do tego doszło,
+	potrzeba zarówno funduszy jak i jakiegoś sposobu aby o nas usłyszano.
 
-Slide 17 - Marketing
 
-Slide 18 - Be prepared to spend your own money
+Slide 17 - You're just a fish..
+	562 M dolarów do tej pory zostało zebranych na projekty na kickstarterze
+
+
+Slide 18 - Be prepared to invest your own money
+	Jako niezależni twórcy, większość rzeczy musimy kupić sami, sprzęt, stanowisko, opłacić miejsce pracy. Płacić rachunki...
 
 Slide 19 - Protect your work...
 
